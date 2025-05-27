@@ -1,0 +1,2 @@
+# java-game-list
+  Aplicativo criado com o intuito de entender melhor como o Back-End funciona, utilizando Java, Springboot e SQL para a criação de um banco de dados de uma lista de jogos acompanhado de uma API que disponibiliza esses mesmos dados para um Front-End que queira requisitá-los, enquanto faz uso de boas práticas, separando DTO, Serviços e Controle, havendo uma mediação da API entre o Back-End e um Front-End que queira requisitar esses dados.
